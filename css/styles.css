@@ -268,7 +268,7 @@ a {
   color: var(--color-heading);
   font-size: 2rem;
   outline: 0;
-  padding: 1.5rem 3rem;
+  padding: 1.5rem 3.5rem;
 }
 
 ::placeholder {
@@ -285,7 +285,6 @@ a {
 .input-group .input {
   border: 0;
   flex-grow: 1;
-  padding: 1.5rem 1rem;
 }
 
 .input-group .btn {
